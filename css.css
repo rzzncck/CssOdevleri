@@ -1,0 +1,32 @@
+a{
+    text-decoration-line:none; 
+    font-family: sans-serif monospace;
+    font-size: 40px; 
+    margin: 10px;
+    width: 40%;
+    color: #629b75;
+    padding: 0; 
+    overflow: auto;
+    top: 500px;}
+    
+    nav{position: static;
+    }
+    section{margin: 15px;
+    width: 95%;
+    border: 3mm ridge #8fd9a8;
+    }
+    body{background-image: url("img/background1.png");}
+    li { font-family: sans-serif monospace; font-size: 24px; color:#255033; }
+    p{ font-family: sans-serif monospace; font-size: 24px; color:#255033; }
+    h1{ font-family: sans-serif monospace; font-size: 42px; color: #4d835f;}
+    h2{ font-family: sans-serif monospace; font-size: 36px; color: #4d835f;}
+    .body{ position:sticky; left:2px; top: 1px;}
+    #kutu1{
+  
+  background-color: #6C3;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 40px;
+  top: 35px;
+}
