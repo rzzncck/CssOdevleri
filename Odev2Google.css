@@ -1,0 +1,122 @@
+
+.nav{ /* navbar'ı */
+    border-width: 5px;
+    position: relative;
+    margin-top: 5px;
+    overflow: hidden;
+    height:min-content;
+    display:contents;
+
+ }
+#sagaitme{
+    padding-left: 1570px;
+}
+
+.nav a{ /* navbarın içindeki a elementleri*/
+    font-family: sans-serif, Arial;
+    text-decoration: none;
+    padding-left: 13px;
+    padding-top: 0px;
+    align-items: center;
+    text-decoration-color: #000 ;
+    opacity: 0.75;
+    font-size: 13px;
+    
+}
+#profilpic{
+        position: relative;
+        top: 10px;
+        border-radius: 50px;
+    }
+#appsbutton{
+    padding-right: 13px;
+    background-position: -132px -38px;
+    opacity: .55;
+    width: 13px;
+    height: 13px;
+}
+.logo{
+    padding-top: 109px;
+    padding-bottom: 20px;
+}
+.inputsearch{
+    height: 39px;
+    width: 480px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 5 8 0 14px;
+    border-color: darkgrey;
+    border-style: solid;
+    
+}
+#searchicon{
+    position: relative;
+    right: 485px;
+    top: 11px;
+    height: 30px;
+    color: #808283;
+
+}
+#voicelogo{
+    height: 26px;
+    position: relative;
+    right: 75px;
+    top: 8px;
+}
+.butons{
+    height: 70px;
+    width: 571px;
+    padding-top: 18px;
+    display: block;
+    
+}
+
+.butonlar{
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial;
+    font-size: 14px;
+    text-decoration-color:#5f6368 ;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    box-shadow: 1px 1px 1px #f2f2f2 ;
+}
+.footer{
+    
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    background-color: #f2f2f2;
+}
+.fbar{
+    
+    background: #f2f2f2;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+}
+.fbar a{
+    font-family: Arial, sans-serif;
+    text-decoration-line: none;
+    color: #5f6368;
+    padding-left: 27px;
+    font-size: 14px;
+}
+#fsr{
+    text-decoration-line: none;
+    margin-right: 30px;
+    float: right;
+    white-space: nowrap;
+}
